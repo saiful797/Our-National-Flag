@@ -1,0 +1,10 @@
+.main-container{
+    height: 100vh;
+    background-color: bisque;
+}
+
+.flag-container{
+    height: 250px;
+    width: 500px;
+    background-color: green;
+}
