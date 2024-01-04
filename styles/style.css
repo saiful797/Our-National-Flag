@@ -7,4 +7,19 @@
     height: 250px;
     width: 500px;
     background-color: green;
+    position: relative;
+    top: 30px;
+    left:30px;
+}
+
+.flag-circle{
+    width: 130px;
+    height: 130px;
+    background-color: red;
+    position: relative;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%,-50%);
+    border-radius: 100%;
+
 }
